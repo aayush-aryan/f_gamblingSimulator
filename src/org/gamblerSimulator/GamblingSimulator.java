@@ -6,8 +6,7 @@ public class GamblingSimulator {
     public static final int  STACK =100;
     public static final int BET =1;
     public static int WIN =0;
-    public static int LOOSE=0;
-
+    
     public void chekWinningLoose(){
 
         Random random = new Random();
